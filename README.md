@@ -1,4 +1,4 @@
-# Análise Espacial com Dataset da Pobreza do estado de Santa Catarina - Brasil com Plotagem em 3D
+# Análise Espacial com Dataset da Pobreza do estado de Santa Catarina (2010) - Brasil com Plotagem em 3D
 Análise Espacial utilizando biliotecas do rayshader, tidyverse e ggplot.
 Todos os datasets podem ser encontrados no repositório.
 
